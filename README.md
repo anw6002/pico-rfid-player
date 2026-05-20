@@ -1,5 +1,7 @@
 # Pico RFID Music Player
 
+![Prototype](images/Pico-RFID-Breadboard2.jpg)
+
 An RFID-based controller built using a Raspberry Pi Pico W.
 
 ## Features
